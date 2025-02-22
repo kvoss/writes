@@ -11,3 +11,5 @@ tags:
 
 I use [4bes.nl tutorial](https://4bes.nl/2021/08/29/create-a-website-with-hugo-and-github-pages/) to generate a static website and publish it on github pages.
 
+For CI/CI, I followed [Marie Cruz' article](http://www.testingwithmarie.com/posts/20241126-create-a-static-blog-with-hugo/)
+
