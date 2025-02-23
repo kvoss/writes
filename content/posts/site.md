@@ -18,3 +18,7 @@ For CI/CI, I followed [Marie Cruz' article](http://www.testingwithmarie.com/post
 The CICD config on Marie's page needs an adjustment as for the publishing folder. The tutorial publishes generated pages to `docs` instead of `public`.
 
 Likely, the files generated using the tutorial are not needed. I will remove them in a future commit. This commit tests the update to contents after changing the content of a post.
+Starting with deleting the `./docs/` content. It is generated.
+
+The `./themes/` may be necessary, although we have a reference to it in git submodules.
+
